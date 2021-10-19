@@ -1,0 +1,15 @@
+{
+  "name": "firstweb",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016"
+  },
+  "author": "praveen",
+  "license": "ISC"
+}
